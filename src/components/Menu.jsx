@@ -89,7 +89,7 @@ function purchaseClicked() {
     updateCartTotal()
 }
 //---------------------------------------------------------------------------------------------------------
-   
+ 
 return (
         <div className="app">
             <header className="main-header">
